@@ -10,7 +10,7 @@ import java.util.Random;
 
 import org.certh.opencube.SPARQL.CubeSPARQL;
 import org.certh.opencube.SPARQL.SelectionSPARQL;
-import org.certh.opencube.cubebrowser.DataCubeBrowserPlus;
+
 import org.certh.opencube.cubebrowser.DataCubeBrowserPlusPlus;
 import org.certh.opencube.utils.CubeHandlingUtils;
 import org.certh.opencube.utils.LDResource;
