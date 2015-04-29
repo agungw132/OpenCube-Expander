@@ -30,7 +30,7 @@ The functionality of the OpenCube Expander is based:
 
 At the beginning the component presents the structure of the cube: i) the cube dimensions, ii) the values for each dimension and ii) the cube measures. Then the user can search for compatible cubes based on the following operations:
 
-+Add measure. This operation identifies and presents cubes that are compatible to add new measures to the original cubes i.e. associated cubes using the property qb:MeasureCompatible.
-+Add value to dimension. In this case the user selects an expansion dimension and the operation identifies and presents compatible cubes that can be used to add new values to the selected dimension i.e. associated cubes using the property qb:dimensionValueCompatible.
-+Add hierarchy. This operation identifies and presents cubes that are compatible to add a hierarchy to the original cube i.e. pre-computed aggregations across a hierarchy created by the OpenCube Aggregator.
-+Add dimension. This operation identifies and presents cubes that are compatible to add a dimension to the original cube i.e. pre-computed aggregations across a dimension created by the OpenCube Aggregator.
++ **Add measure**. This operation identifies and presents cubes that are compatible to add new measures to the original cubes i.e. associated cubes using the property qb:MeasureCompatible.
++ **Add value to dimension**. In this case the user selects an expansion dimension and the operation identifies and presents compatible cubes that can be used to add new values to the selected dimension i.e. associated cubes using the property qb:dimensionValueCompatible.
++ **Add hierarchy**. This operation identifies and presents cubes that are compatible to add a hierarchy to the original cube i.e. pre-computed aggregations across a hierarchy created by the OpenCube Aggregator.
++ **Add dimension**. This operation identifies and presents cubes that are compatible to add a dimension to the original cube i.e. pre-computed aggregations across a dimension created by the OpenCube Aggregator.
