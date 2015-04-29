@@ -24,8 +24,8 @@ Widget configuration for use with the remote SPARQL end-point containing data fo
 
 The functionality of the OpenCube Expander is based:
 
-+On the links (qb:dimensionValueCompatible and qb:MeasureCompatible) created by the OpenCube Compatibility Explorer in order to detect external compatible cubes
-+On the aggregations (across a dimension and across a hierarchy) to detect compatible pre-computed aggregate cubes. The links enable the fast detection of the compatible cubes since no complex computations are made.
++ On the links (qb:dimensionValueCompatible and qb:MeasureCompatible) created by the OpenCube Compatibility Explorer in order to detect external compatible cubes
++ On the aggregations (across a dimension and across a hierarchy) to detect compatible pre-computed aggregate cubes. The links enable the fast detection of the compatible cubes since no complex computations are made.
  
 
 At the beginning the component presents the structure of the cube: i) the cube dimensions, ii) the values for each dimension and ii) the cube measures. Then the user can search for compatible cubes based on the following operations:
